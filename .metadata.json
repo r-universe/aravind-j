@@ -1,0 +1,17 @@
+[
+  {
+    "package": "augmentedRCBD",
+    "oncran": true
+  },
+  {
+    "package": "germinationmetrics",
+    "oncran": true
+  },
+  {
+    "package": "PGRdup",
+    "oncran": true
+  },
+  {
+    "package": "rmelting"
+  }
+]
