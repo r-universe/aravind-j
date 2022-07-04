@@ -8,6 +8,11 @@
 	url = https://github.com/aravind-j/augmentedrcbd
 	shallow = true
 	registered = true
+[submodule "EvaluateCore"]
+	path = EvaluateCore
+	url = https://github.com/aravind-j/evaluatecore
+	shallow = true
+	registered = true
 [submodule "germinationmetrics"]
 	path = germinationmetrics
 	url = https://github.com/aravind-j/germinationmetrics
