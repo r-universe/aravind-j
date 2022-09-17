@@ -23,8 +23,3 @@
 	url = https://github.com/aravind-j/pgrdup
 	shallow = true
 	registered = true
-[submodule "rmelting"]
-	path = rmelting
-	url = https://github.com/aravind-j/rmelting
-	shallow = true
-	registered = true
