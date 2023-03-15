@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "PGRdup"]
-	path = PGRdup
-	url = https://github.com/aravind-j/pgrdup
+[submodule "augmentedRCBD"]
+	path = augmentedRCBD
+	url = https://github.com/aravind-j/augmentedrcbd
 	shallow = true
 	registered = true
 [submodule "EvaluateCore"]
@@ -13,18 +13,18 @@
 	url = https://github.com/aravind-j/evaluatecore
 	shallow = true
 	registered = true
-[submodule "rmelting"]
-	path = rmelting
-	url = https://github.com/aravind-j/rmelting
-	shallow = true
-	registered = true
-[submodule "augmentedRCBD"]
-	path = augmentedRCBD
-	url = https://github.com/aravind-j/augmentedrcbd
-	shallow = true
-	registered = true
 [submodule "germinationmetrics"]
 	path = germinationmetrics
 	url = https://github.com/aravind-j/germinationmetrics
+	shallow = true
+	registered = true
+[submodule "PGRdup"]
+	path = PGRdup
+	url = https://github.com/aravind-j/pgrdup
+	shallow = true
+	registered = true
+[submodule "rmelting"]
+	path = rmelting
+	url = https://github.com/aravind-j/rmelting
 	shallow = true
 	registered = true
