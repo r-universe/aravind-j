@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "augmentedRCBD"]
-	path = augmentedRCBD
-	url = https://github.com/aravind-j/augmentedrcbd
 [submodule "EvaluateCore"]
 	path = EvaluateCore
 	url = https://github.com/aravind-j/evaluatecore
-[submodule "germinationmetrics"]
-	path = germinationmetrics
-	url = https://github.com/aravind-j/germinationmetrics
 [submodule "PGRdup"]
 	path = PGRdup
 	url = https://github.com/aravind-j/pgrdup
+[submodule "augmentedRCBD"]
+	path = augmentedRCBD
+	url = https://github.com/aravind-j/augmentedrcbd
+[submodule "germinationmetrics"]
+	path = germinationmetrics
+	url = https://github.com/aravind-j/germinationmetrics
 [submodule "rmelting"]
 	path = rmelting
 	url = https://github.com/aravind-j/rmelting
