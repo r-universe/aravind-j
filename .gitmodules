@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "EvaluateCore"]
-	path = EvaluateCore
-	url = https://github.com/aravind-j/evaluatecore
 [submodule "PGRdup"]
 	path = PGRdup
 	url = https://github.com/aravind-j/pgrdup
@@ -14,6 +11,3 @@
 [submodule "germinationmetrics"]
 	path = germinationmetrics
 	url = https://github.com/aravind-j/germinationmetrics
-[submodule "rpcss"]
-	path = rpcss
-	url = https://github.com/aravind-j/rpcss
