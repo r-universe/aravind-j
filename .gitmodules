@@ -11,7 +11,3 @@
 [submodule "germinationmetrics"]
 	path = germinationmetrics
 	url = https://github.com/aravind-j/germinationmetrics
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-	registered = false
