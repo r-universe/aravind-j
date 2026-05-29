@@ -11,6 +11,9 @@
 [submodule "PGRdup"]
 	path = PGRdup
 	url = https://github.com/aravind-j/pgrdup
+[submodule "SampleCore"]
+	path = SampleCore
+	url = https://github.com/aravind-j/samplecore
 [submodule "augmentedRCBD"]
 	path = augmentedRCBD
 	url = https://github.com/aravind-j/augmentedrcbd
