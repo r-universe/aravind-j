@@ -8,6 +8,9 @@
 [submodule "EvaluateCore"]
 	path = EvaluateCore
 	url = https://github.com/aravind-j/evaluatecore
+[submodule "LEAVcore"]
+	path = LEAVcore
+	url = https://github.com/aravind-j/leavcore
 [submodule "PGRdup"]
 	path = PGRdup
 	url = https://github.com/aravind-j/pgrdup
