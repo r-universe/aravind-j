@@ -17,9 +17,6 @@
 [submodule "SampleCore"]
 	path = SampleCore
 	url = https://github.com/aravind-j/samplecore
-[submodule "augmentedRCBD"]
-	path = augmentedRCBD
-	url = https://github.com/aravind-j/augmentedrcbd
 [submodule "germinationmetrics"]
 	path = germinationmetrics
 	url = https://github.com/aravind-j/germinationmetrics
