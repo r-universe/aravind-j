@@ -20,6 +20,9 @@
 [submodule "germinationmetrics"]
 	path = germinationmetrics
 	url = https://github.com/aravind-j/germinationmetrics
+[submodule "ggmultiglyph"]
+	path = ggmultiglyph
+	url = https://github.com/aravind-j/ggmultiglyph
 [submodule "rpcss"]
 	path = rpcss
 	url = https://github.com/aravind-j/rpcss
